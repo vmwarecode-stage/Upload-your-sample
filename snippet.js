@@ -1,0 +1,1 @@
+Upload your sample as a ZIP archive or simply cut and paste a code snippet into the submission form. If you are a GitHub user, you can also connect your account with VMware {code} to import gists and repositories (or individual files and folders within a repo) directly from GitHub.
